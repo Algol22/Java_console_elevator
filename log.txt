@@ -1,10 +1,29 @@
-[двері зачиняються.... час: 15:56:43.041585500
-, Підіймаємось вверх... поточний поверх 2 час: 15:56:43.668657600
-, Підіймаємось вверх... поточний поверх 3 час: 15:56:44.270956
-, Підіймаємось вверх... поточний поверх 4 час: 15:56:44.874084900
-, Аварія, повертаємось на перший поверх.... час: 15:56:46.811285500
-, опускаємось... поточний поверх 4 час: 15:56:46.813287300
-, опускаємось... поточний поверх 3 час: 15:56:47.415405500
-, опускаємось... поточний поверх 2 час: 15:56:48.018598900
-, опускаємось... поточний поверх 1 час: 15:56:48.622356400
+[doors are closing.... time: 17:42:42.691403400
+, Going up... current Floor 2 time: 17:42:43.326450
+, Going up... current Floor 3 time: 17:42:43.930653800
+, doors openin time: 17:42:44.533663700
+, Emergency, going down to 1st floor.... time: 17:42:47.260082100
+, Going down... current Floor  3 time: 17:42:47.261083800
+, Going down... current Floor  2 time: 17:42:47.863225
+, Going down... current Floor  1 time: 17:42:48.466302200
+, doors are closing.... time: 17:42:58.398916200
+, Going up... current Floor 1 time: 17:42:59.000877500
+, doors openin time: 17:42:59.603958
+, Emergency, going down to 1st floor.... time: 17:43:08.175294200
+, Going down... current Floor  1 time: 17:43:08.176292200
+, doors are closing.... time: 17:43:36.968614600
+, Going up... current Floor 1 time: 17:43:37.571424600
+, doors openin time: 17:43:38.174520700
+, Emergency, going down to 1st floor.... time: 17:43:42.167124700
+, Going down... current Floor  1 time: 17:43:42.169123600
+, doors are closing.... time: 17:43:51.160970600
+, Going up... current Floor 1 time: 17:43:51.763114200
+, doors openin time: 17:43:52.366663600
+, Emergency, going down to 1st floor.... time: 17:43:54.095705800
+, Going down... current Floor  1 time: 17:43:54.096705500
+, doors are closing.... time: 17:43:57.315599600
+, Going up... current Floor 1 time: 17:43:57.917743300
+, doors openin time: 17:43:58.520792600
+, Emergency, going down to 1st floor.... time: 17:44:01.442074600
+, Going down... current Floor  1 time: 17:44:01.442074600
 ]

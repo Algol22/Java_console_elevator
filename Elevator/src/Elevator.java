@@ -6,6 +6,7 @@ import java.nio.file.Paths;
 import java.sql.SQLOutput;
 import java.time.LocalTime;
 import java.util.ArrayList;
+import java.util.InputMismatchException;
 import java.util.Scanner;
 
 public class Elevator{
@@ -78,15 +79,25 @@ public class Elevator{
         void ask() {
 
             ask("Enter the floor: ");
-            while (!intel.hasNextInt() && curFloor>1) {
-                display("Emergency, going down to 1st floor....");
-                desFloor=1;
-                goDown();
+            while (!intel.hasNextInt() && curFloor > 1) {
+                String answ = intel.nextLine();
+                if ("stop".equals(answ)) {
+                    display("Forced.stop");
+                    intel.next();
+                } else {
+                    display("Emergency, going down to 1st floor....");
+                    desFloor = 1;
+                    goDown();
+                    intel.next();
+                }
             }
-
-
+            try {
                 desFloor = intel.nextInt();
+            } catch (InputMismatchException exception) {
+                System.out.println("STOP");
+                intel.next();
 
+            }
                 if (desFloor < minFloor || desFloor > maxFloor || desFloor == curFloor) {
                     display("Error, beyound the range");
                     ask();
@@ -100,9 +111,8 @@ public class Elevator{
 
                     }
                 }
+                display("doors openin");
                 ask();
-            }
 
-
-
+        }
 }

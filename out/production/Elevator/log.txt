@@ -1,6 +1,31 @@
-[doors are closing.... С‡Р°СЃ: 16:03:33.571705100
-, Going up... current Floor 2 С‡Р°СЃ: 16:03:34.190450400
-, Going up... current Floor 3 С‡Р°СЃ: 16:03:34.794216100
-, Going up... current Floor 4 С‡Р°СЃ: 16:03:35.398447
-, Going up... current Floor 5 С‡Р°СЃ: 16:03:36.000989700
+[doors are closing.... time: 16:06:26.403612500
+, Going up... current Floor 2 time: 16:06:27.031934300
+, Going up... current Floor 3 time: 16:06:27.656938900
+, Going up... current Floor 4 time: 16:06:28.260218100
+, Going up... current Floor 5 time: 16:06:28.875086600
+, Going up... current Floor 6 time: 16:06:29.484520800
+, Going up... current Floor 7 time: 16:06:30.088592700
+, Going up... current Floor 8 time: 16:06:30.692613800
+, Going up... current Floor 9 time: 16:06:31.296260500
+, Going up... current Floor 10 time: 16:06:31.900328300
+, Going up... current Floor 11 time: 16:06:32.501657900
+, Going up... current Floor 12 time: 16:06:33.109738400
+, Going up... current Floor 13 time: 16:06:33.719117900
+, Going up... current Floor 14 time: 16:06:34.322748600
+, Error, beyound the range time: 16:06:37.140690
+, Emergency, going down to 1st floor.... time: 16:06:44.316992300
+, Going down... current Floor  14 time: 16:06:44.318991300
+, Going down... current Floor  13 time: 16:06:44.922031500
+, Going down... current Floor  12 time: 16:06:45.531415200
+, Going down... current Floor  11 time: 16:06:46.135262200
+, Going down... current Floor  10 time: 16:06:46.739029500
+, Going down... current Floor  9 time: 16:06:47.345325800
+, Going down... current Floor  8 time: 16:06:47.950100300
+, Going down... current Floor  7 time: 16:06:48.553449700
+, Going down... current Floor  6 time: 16:06:49.156929200
+, Going down... current Floor  5 time: 16:06:49.766311600
+, Going down... current Floor  4 time: 16:06:50.370669800
+, Going down... current Floor  3 time: 16:06:50.984500
+, Going down... current Floor  2 time: 16:06:51.593884900
+, Going down... current Floor  1 time: 16:06:52.198030
 ]
